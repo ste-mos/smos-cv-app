@@ -87,7 +87,7 @@ with tab4:
     with col6:    
         # SQL
         st.image('https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png',
-                    width=50,
+                    width=100,
         )
     with col7:
         # Java
